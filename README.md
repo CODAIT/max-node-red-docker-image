@@ -4,7 +4,7 @@
 
 ## Getting started
 
-This repo is home to the containerized version of the Model Asset Exchange Node-RED nodes and sample flows, packaged together so you can run the examples with ZERO installation!
+This repo is home to the containerized version of the Model Asset Exchange Node-RED nodes and sample flows, packaged together so it can be run with ZERO installation!
 
 To begin, you will need one pre-requisite: [Docker](http://www.docker.com).
 
