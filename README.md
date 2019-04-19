@@ -20,7 +20,9 @@ This command will install Node-RED, the MAX nodes, and all other dependencies ne
 http://localhost:5555
 ```
 
-**NOTE:** In this example, the container's exposed port `1880` was mapped to port `5555`. Feel free to change the value of the mapped port to anything currently available on your machine, which you would then use to access Node-RED in the second step.
+**WARNING:** Currently there is no persistent storage for flows or other files that may be saved or generated inside the container. When you terminate the container, all data inisde will be lost, and you will start with a fresh install when the container is restarted.
+
+> **NOTE:** In this example, the container's exposed port `1880` was mapped to port `5555`. Feel free to change the value of the mapped port to anything currently available on your machine, which you would then use to access Node-RED in the second step.
 
 ## Running the example flows
 
