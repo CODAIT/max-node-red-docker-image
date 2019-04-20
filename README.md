@@ -11,7 +11,7 @@ To begin, you will need one pre-requisite: [Docker](http://www.docker.com).
 Once you have docker installed, one command is all it takes to get up and running.
 
 ```bash
-$ docker run -p 5555:1880 kastentx/max-node-red-demo
+$ docker run -p 5555:1880 codait/max-node-red-demo
 ```
 
 This command will install Node-RED, the MAX nodes, and all other dependencies needed to get started. It will then load the Node-RED server, which will be available in your browser at: 
