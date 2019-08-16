@@ -1,6 +1,6 @@
 # MAX Node-RED Demo (Docker Version)
 
-![Sample Node-RED Flow for MAX Object Detector](/assets/object_detector.png)
+![Sample Node-RED Flow for MAX Object Detector](https://raw.githubusercontent.com/CODAIT/max-node-red-docker-image/master/assets/object_detector.png)
 
 ## Getting started
 
@@ -32,7 +32,7 @@ The `node-red-contrib-model-asset-exchange` module includes a couple of example 
 2. Select one of the sub-directories to choose between the basic flows in **getting started**, some more complex examples in **beyond the basics**, or some flows designed to run on the **raspberry pi**.
 3. Choose a flow.
 
-   ![import sample flows](/assets/import_sample_flows.png) 
+   ![import sample flows](https://raw.githubusercontent.com/CODAIT/max-node-red-docker-image/master/assets/import_sample_flows.png) 
 
 > Note: The flows utilize nodes from the [node-red-contrib-browser-util](https://flows.nodered.org/node/node-red-contrib-browser-utils) and [node-red-contrib-image-output](https://flows.nodered.org/node/node-red-contrib-image-output) modules. See the flow description for more details on which nodes are used in a particular example.
 
